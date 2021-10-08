@@ -24,7 +24,7 @@ DEPENDENCIES
   slaw (~> 10.7)
 
 RUBY VERSION
-   ruby 2.6.8
+   ruby 2.7.2p137
 
 BUNDLED WITH
-   1.17.3
+   2.2.28
